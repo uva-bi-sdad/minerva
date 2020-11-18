@@ -44,7 +44,7 @@ mock==2.0.0
 msgpack-python==0.4.8
 nbconvert==5.3.1
 nbformat==4.4.0
-notebook==5.2.2
+notebook==6.1.5
 olefile==0.44
 otree-boto2-shim==0.3.2
 otree-core==1.4.38
