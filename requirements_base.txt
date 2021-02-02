@@ -3,7 +3,7 @@ asgi-redis==0.14.1
 asgiref==0.14.0
 autobahn==0.16.0
 Babel==2.3.4
-bleach==2.1.2
+bleach==3.3.0
 boto==2.42.0
 channels==0.17.3
 colorama==0.3.7
