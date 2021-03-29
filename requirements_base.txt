@@ -59,7 +59,7 @@ Pillow==4.1.0
 prompt-toolkit==1.0.15
 ptyprocess==0.5.2
 py==1.4.31
-Pygments==2.2.0
+Pygments==2.7.4
 pyparsing==2.2.0
 pytest==2.9.2
 pytest-django==3.0.0
