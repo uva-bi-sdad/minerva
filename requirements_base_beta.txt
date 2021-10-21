@@ -2,7 +2,7 @@ appdirs==1.4.3
 asgi-redis==1.4.3
 asgiref==1.1.2
 autobahn==17.9.3
-Babel==2.3.4
+Babel==2.9.1
 bleach==2.1.2
 boto==2.42.0
 channels==1.1.8
