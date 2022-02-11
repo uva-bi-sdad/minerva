@@ -78,7 +78,7 @@ terminado==0.8.1
 testpath==0.3.1
 tornado==4.5.3
 traitlets==4.3.2
-Twisted==16.2.0
+Twisted==22.1.0
 txaio==2.5.1
 unicodecsv==0.14.1
 wcwidth==0.1.7
